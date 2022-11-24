@@ -1,0 +1,1 @@
+declare var access: import('~/declaration').IndexAccessor // Here it says unresolved variable
